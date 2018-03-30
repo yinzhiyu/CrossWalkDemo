@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 提示字体颜色 -->
+    <color name="font_color_hint">#999999</color>
+    <!-- 向右的箭头的颜色 -->
+    <color name="arrow_color">#b2b2b2</color>
+    <!-- title颜色 -->
+    <color name="title_background">#eeeeee</color>
+    <color name="title_bar_bg">#838b92</color>
+    <!-- 白色 -->
+    <color name="white_color">#ffffff</color>
+    <!-- 背景颜色 -->
+    <color name="bg_color">#eeeeee</color>
+    <!-- 浅色字体颜色 -->
+    <color name="font_color_tint">#666666</color>
+    <color name="normal_blue_color">#1f8fdf</color>
+    <color name="pressed_blue_color">#1676bb</color>
+    <color name="normal_blue_color_05">#a01f8fdf</color>
+    <color name="font_color_bim">#3366cc</color>
+    <!-- 下拉刷新颜色 -->
+    <color name="pull_down_refresh1">#fdce03</color>
+    <color name="pull_down_refresh2">#f79c0b</color>
+    <color name="pull_down_refresh3">#ee5518</color>
+    <color name="pull_down_refresh4">#e82221</color>
+    <!-- 黑色字体颜色 -->
+    <color name="font_color_black">#333333</color>
+    <!-- 分割线的颜色 -->
+    <color name="split_color">#b2b2b2</color>
+    <color name="split_color2">#eeeeee</color>
+    <!-- 透明颜色 -->
+    <color name="transparent_color">#00000000</color>
+    <!-- 深色透明 -->
+    <color name="transparent_color_deep">#44000000</color>
+    <color name="btn_pressed_color">#e1e1e1</color>
+    <!-- 深色字体颜色 -->
+    <color name="font_color_deep">#333333</color>
+    <!--未读提示 背景颜色  -->
+    <color name="un_read_color">#e61a1a</color>
+    <!-- 按下颜色 -->
+    <color name="pressed_color">#f6f6f6</color>
+    <!-- 默认颜色 -->
+    <color name="default_color">#ffffff</color>
+    <!-- 加载中字体颜色 -->
+    <color name="font_color_loading">#757575</color>
+    <!-- 黑色 -->
+    <color name="black_color">#000000</color>
+    <color name="attention_button_default_color">#5a95e0</color>
+    <!-- listview 按下颜色 -->
+    <color name="listview_pressed_color">#dbdbdb</color>
+    <color name="color_dddddd">#dddddd</color>
+    <color name="color_d8d8d8">#d8d8d8</color>
+    <color name="color_82BBF9">#82BBF9</color>
+    <color name="color_82dceb">#82DCEB</color>
+    <color name="color_48d78c">#48D78C</color>
+    <color name="color_e7fb8">#E07FB8</color>
+    <color name="color_777777">#777777</color>
+    <color name="color_ff3b30">#ff3b30</color>
+    <color name="color_afb8bb">#AFB8BB</color>
+    <!-- 灰色 -->
+    <color name="gray_color">#dbdbdb</color>
+    <color name="color_222222">#222222</color>
+    <color name="black_p80">#d6000000</color>
+    <color name="color_7d7d7d">#7d7d7d</color>
+    <!-- 橙色字体颜色 -->
+    <color name="font_color_orange">#f39924</color>
+    <color name="color_e65d4a">#e65d4a</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_b2b2b2">#b2b2b2</color>
+    <color name="color_fd9220">#fd9220</color>
+    <color name="color_e3e3e3">#e3e3e3</color>
+    <color name="color_0076ff">#0076ff</color>
+    <color name="color_030303">#030303</color>
+    <color name="color_fcfcfc">#fcfcfc</color>
+</resources>
